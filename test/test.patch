@@ -1,0 +1,19 @@
+commit cebcb5383c07395890e4d4f1eb63eb9a1c43afa1
+Author: ShubhaM220 <shubham.boko31@gmail.com>
+Date:   Fri Mar 9 19:55:20 2018 +0530
+
+    some text has been added
+    
+    Signed-off-by: ShubhaM220 <shubham.boko31@gmail.com>
+
+diff --git a/test/test.c b/test/test.c
+index 47ff9a7..3bfc18c 100644
+--- a/test/test.c
++++ b/test/test.c
+@@ -1,5 +1,6 @@
+ #include<stdio.h>
+ 
+ int main(){
++	printf("some test has been added\n");
+ 	return 0;
+ }

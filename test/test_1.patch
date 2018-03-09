@@ -1,0 +1,11 @@
+diff --git a/test/test.c b/test/test.c
+index 47ff9a7..3bfc18c 100644
+--- a/test/test.c
++++ b/test/test.c
+@@ -1,5 +1,6 @@
+ #include<stdio.h>
+ 
+ int main(){
++	printf("some test has been added\n");
+ 	return 0;
+ }
